@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/paint-house-iii
 package solution
 
 type Memo [101][101][21]int
