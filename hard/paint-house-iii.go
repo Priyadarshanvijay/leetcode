@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/paint-house-iii
-package solution
+package hard
 
 type Memo [101][101][21]int
 

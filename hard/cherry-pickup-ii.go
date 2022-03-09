@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/cherry-pickup-ii/
-package solution
+package hard
 
 type curPosition struct {
 	x  int
